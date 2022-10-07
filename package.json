@@ -1,0 +1,18 @@
+{
+  "name": "sss29-syntax",
+  "theme": "syntax",
+  "version": "0.1.1",
+"description": "ซื้อเลขลาวออนไลน์✔️ ❤️ ♕ เว็บหวยออนไลน์ มีหวยให้เล่นครบทุกชนิด ตลอด 24 ชั่วโมง",
+"keywords": [
+"ซื้อเลขลาวออนไลน์",
+"เว็บหวยมี",
+"lottovip เข้าสู่ระบบไม่ได้",
+"แทงหวย",
+"แอพหวย lottovip"
+],
+  "repository": "https://github.com/setteebet/sss29-syntax.git",
+  "license": "MIT",
+  "engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
